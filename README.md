@@ -1,0 +1,2 @@
+# Power-Package
+SOLIDWORKS files.
